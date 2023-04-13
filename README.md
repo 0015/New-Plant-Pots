@@ -1,4 +1,4 @@
-# Project Description: Smart Planter with ChatGPT Integration
+# Smart Planter with ChatGPT Integration
 
 The Smart Planter with ChatGPT Integration is a project that combines the power of technology and gardening to help individuals grow their plants more effectively. The project is built using a microcontroller and a soil sensor, which measures the temperature and humidity levels of the soil. Based on this information, the project prompts ChatGPT to provide helpful tips to the user on how to take care of their plants.
 
@@ -10,6 +10,12 @@ To use the Smart Planter with ChatGPT Integration, the user simply needs to conn
 
 In conclusion, the Smart Planter with ChatGPT Integration is a unique and innovative project that combines technology and gardening to help individuals grow their plants more effectively. By using a soil sensor and ChatGPT, the project provides personalized and actionable tips to the user, making plant care easier and more enjoyable.
 
+## Demo 
+
+### 01. The First version with T5 4.7 Inch E-paper V2.3
+![The First version with T5 4.7 Inch E-paper V2.3](Demos/01_AIPlantPot_v1.gif)
+
+[Video: How to make a plant pot](https://youtu.be/x3e_vu3tHkg)
 
 # License
 
