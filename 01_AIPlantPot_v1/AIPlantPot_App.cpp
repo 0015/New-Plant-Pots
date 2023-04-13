@@ -117,7 +117,7 @@ void AIPlantPotApp::fetch_data_from_sdcard() {
     Serial.println("WIFI IS CONNECTED!!!!");
     char question[200];
     sprintf(question, "The soil sensor indicates a temperature %.1fF, humidity %.1f%%. Any tips for the eggplant to grow in?", temps.front(), humis.front());
-    Serial.print("Qestion: ");
+    Serial.print("Question: ");
     Serial.println(question);
     setQuestion(String(question));
     xTaskCreate(chatTask, "chatTask", 10000, NULL, 2, NULL);
